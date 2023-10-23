@@ -1,3 +1,3 @@
-function c_age(edate) {
-    let age = Date.now() - edate;
+function cal(){
+    let d = Date.now();
 }
